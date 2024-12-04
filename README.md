@@ -10,11 +10,11 @@ The Soundlib module is a versatile Python extension designed to generate and pla
 
 # How to install
 ```sh
-pip install dasoundlib
+pip install dasoundlib==0.5
 ```
 
 # How to use
 ```python
-from soundlib import *
+from Soundlib import *
 play_sound(<frequency>, <milliseconds>)
 ```
