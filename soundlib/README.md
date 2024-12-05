@@ -10,6 +10,6 @@ The Soundlib module is a versatile Python extension designed to generate and pla
 
 # How to use
 ```python
-from soundlib import *
+from Soundlib import *
 play_sound(<frequency>, <milliseconds>)
 ```
