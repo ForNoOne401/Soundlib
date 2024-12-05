@@ -7,7 +7,7 @@ Unauthorized distribution of this module is strictly prohibited.
 
 '''
 
-from _soundlib import *
-from _soundlib import __doc__
+from ._soundlib import *
+from ._soundlib import __doc__
 
 __all__ = dir(__import__('_soundlib'))
